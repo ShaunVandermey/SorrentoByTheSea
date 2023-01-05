@@ -5,4 +5,4 @@ A website made to client specifications including styles, structure, and include
 
 Currently the project does not include any JavaScript/backend language for more powerful options regarding website dynamics, booking submissions, or search functions. Due to the student project nature of the website, it is also not suitable for viewing on mobile, and is not hosted online.
 
-For improved viewing & navigation, please feel free to download and poke around the files.
+For improved viewing & navigation, please feel free to download and poke around the files. Alternatively, the screenshots folder includes some images of the website's look and layout, including the integrated Google Map.
